@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BERT Fine-tuning for Movie Review Sentiment Analysis
 
 This project demonstrates how to fine-tune a BERT model for sentiment analysis on movie reviews using the Hugging Face Transformers library.
@@ -172,18 +171,3 @@ Feel free to submit issues, feature requests, or pull requests to improve this p
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Note**: This project is for educational purposes. Please ensure you have appropriate licenses for the datasets and models used. The BERT model used is subject to its own licensing terms from Hugging Face.
-
-
-**BERT Fine-tuning for Movie Review Sentiment Analysis**
-- Developed end-to-end NLP pipeline using BERT transformer model for binary sentiment classification
-- Implemented data preprocessing, tokenization, and model training using Hugging Face Transformers
-- Achieved low evaluation loss (0.463) with efficient inference speed (141 samples/sec)
-- Built complete MLOps pipeline including model saving, loading, and prediction functions
-- Technologies: Python, PyTorch, Transformers, BERT, Pandas, Scikit-learn
-
----
-
-**Note**: This project is designed for learning and experimentation with BERT fine-tuning for sentiment analysis. For production use, consider additional validation, error handling, and model optimization techniques.
-=======
-# BERT-FINETUNE-movie-review-analysis
->>>>>>> 3933f9e6138b36a275e05c25c1ebedae8d9b25ca
